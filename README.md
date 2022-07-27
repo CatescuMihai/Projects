@@ -7,3 +7,5 @@
  - You need to register first to have an actual account. You will type a username and a 
    password wich will be stored by default in yor D disk(this can be modified in the code) 
    on your computer under a .txt format.
+  
+ - The full implemented code is in the Log in system.txt file.
